@@ -2,7 +2,7 @@
 // for( let i=0;i<months.length;i++){
 //   console.log(months[i]);
 // }
-const names = ['Ganesha', 'Siva', 'Vishnu', 'Durga'];
+// const names = ['Ganesha', 'Siva', 'Vishnu', 'Durga'];
 //push
 // names.push('Lakshmi');
 // console.log(names);
@@ -26,9 +26,15 @@ const names = ['Ganesha', 'Siva', 'Vishnu', 'Durga'];
 //   console.log(`${i + 1} - ${names}`);
 // });
 // console.log(typeof forEach);
-const number =[2,6,7,7]
-let sum=0;
-number.forEach((numbers)=>{
-  sum+=numbers
-});
-console.log(sum);
+// const number =[2,6,7,7]
+// let sum=0;
+// number.forEach((numbers)=>{
+//   sum+=numbers
+// });
+// console.log(sum);
+
+//array for each
+// const names=['Ganesha', 'Siva', 'Vishnu', 'Durga'];
+// const logame=(name,i)=>console.log(`${i}, ${name}`);
+// names.forEach(logame);
+
